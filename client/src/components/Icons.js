@@ -1,5 +1,5 @@
 import React from "react";
-
+//All icons used for this project.
 export function LogoIcon() {
   return (
     <svg

@@ -1,5 +1,5 @@
 import React from "react";
-
+//Used for the loading spinner when website is loading.
 export default function LoadingSpinner() {
   return (
     <div
